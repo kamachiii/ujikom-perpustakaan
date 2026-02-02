@@ -51,7 +51,7 @@ Sistem ini menyediakan fitur lengkap untuk manajemen buku, peminjaman, pengembal
 ![Return](./screenshots/return.png)
 *Proses pengembalian dengan kalkulasi denda otomatis*
 
-> 💡 **Note:** Tambahkan folder `screenshots/` dan isi dengan screenshot aplikasi Anda untuk preview yang lebih menarik!
+> 💡 **Note:** Hasil screenshoot masih blm tersedia (nunggu mood)
 
 ---
 
